@@ -1,7 +1,7 @@
 name: v-a-l-e-r-i-e
 favicon: null
 layout_spectrum: 0.7413975119125098
-typography_spectrum: 0.7661250336095691
+typography_spectrum: 0.49946
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#160600'
   brandStrength: 0
   lightness: 0.5502034483943135
-  saturation: 0.9405284221284091
+  saturation: 1
   rhythmicContrast: 0.298025066498667
 purpose: []
